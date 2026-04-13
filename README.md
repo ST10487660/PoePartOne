@@ -66,7 +66,9 @@ The workflow file is located in:
 The pipeline:
 - Restores dependencies  
 - Builds the project  
-- Runs the build checks  
+- Runs the build checks
+- <img width="1353" height="640" alt="image" src="https://github.com/user-attachments/assets/f8a59c4d-4060-408b-9b5e-9012cfe58944" />
+
 
 
 ## How to Run the Project
