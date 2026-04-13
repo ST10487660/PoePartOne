@@ -84,7 +84,7 @@ namespace PoePartOne
 
                 Bitmap resized = new Bitmap(image, new Size(width, height));
 
-                string asciiChars = "@#S%?*+;:,. ";
+                string asciiChars = "@#S%?*+;:,.. ";
 
                 for (int y = 0; y < resized.Height; y++)
                 {
