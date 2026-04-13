@@ -43,6 +43,84 @@ PoePartOne/
 └── .gitignore
 
 
+
+
+## Technologies Used
+
+- C# (.NET 8)
+- Visual Studio
+- Git and GitHub
+- GitHub Actions (CI/CD)
+- System.Media for audio playback
+- System.Drawing for image processing
+
+---
+
+## CI/CD Pipeline
+
+This project uses GitHub Actions to automatically build the project when changes are pushed to the repository.
+
+The workflow file is located in:
+`.github/workflows/dotnet.yml`
+
+The pipeline:
+- Restores dependencies  
+- Builds the project  
+- Runs the build checks  
+
+
+## How to Run the Project
+
+1. Clone the repository:
+
+
+git clone https://github.com/ST10487660/PoePartOne.git
+
+
+
+2. Open the solution file:
+
+
+PoePartOne.sln
+
+3. Run the project in Visual Studio by pressing F5
+
+
+
+## What I Learned
+
+- How to build a C# console application  
+- Working with classes and methods  
+- File handling for audio and images  
+- Using Git and GitHub for version control  
+- Setting up a basic CI/CD pipeline using GitHub Actions  
+- Structuring a project properly  
+
+---
+
+## Author
+
+Matlou Shaun Rakgoale  
+Student ID: ST10487660  
+Software Development Student
+
+---
+
+## Version History
+
+- Initial commit – Project setup  
+- Added chatbot logic  
+- Added voice greeting system  
+- Added ASCII logo conversion  
+- Improved chatbot responses  
+- Added GitHub Actions workflow  
+- Final cleanup and improvements  
+
+
+
+
+
+
 ## References
 
 The following resources and tools were used during the development of this project:
