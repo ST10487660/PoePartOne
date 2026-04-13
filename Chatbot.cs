@@ -36,6 +36,8 @@
         {
             input = input.ToLower();
 
+            //improved chatbot logic
+
             // Greeting
             if (input.Contains("hello") || input.Contains("hi") || input.Contains("hey"))
                 return "Hello. I am your cybersecurity assistant. You can ask me about online safety, passwords, phishing, hacking, and more.";
