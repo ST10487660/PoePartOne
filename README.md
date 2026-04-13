@@ -24,3 +24,20 @@ The system includes a voice greeting, an ASCII logo display and a chatbot that i
 
 
 ## Project Structure
+PoePartOne/
+│
+├── Program.cs
+├── Chatbot.cs
+├── VoiceLogo.cs
+├── PoePartOne.csproj
+├── PoePartOne.sln
+│
+├── Resources/
+│ ├── greet.wav
+│ └── logo.png
+│
+├── .github/
+│ └── workflows/
+│ └── dotnet.yml
+│
+└── .gitignore
