@@ -41,3 +41,14 @@ PoePartOne/
 │ └── dotnet.yml
 │
 └── .gitignore
+
+
+## References
+
+The following resources and tools were used during the development of this project:
+
+- ChatGPT (OpenAI) – used for guidance, debugging help and explaining programming concepts
+- Google – used for general research and problem solving
+- ASCII art and ASCII conversion techniques – used to generate console-based visual output
+- design.com – used to design image logo
+- bandlab - used for voice wav audio
