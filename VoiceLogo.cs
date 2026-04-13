@@ -141,7 +141,7 @@ namespace PoePartOne
             Console.ForegroundColor = ConsoleColor.Cyan;
 
             Console.WriteLine("\n =====================================");
-            Console.WriteLine($" ||         Welcome, {name}!!!        ||");
+            Console.WriteLine($"||         Welcome, {name}!!!        ||");
             Console.WriteLine(" ||         ()          ()            ||");
             Console.WriteLine(" ||                0                  ||");
             Console.WriteLine(" ||          ''          ''           ||");
